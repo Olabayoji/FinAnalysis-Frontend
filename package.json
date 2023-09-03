@@ -1,8 +1,8 @@
 {
   "name": "frontend",
-  "homepage": "https://github.io/Olabayoji/FinAnalysis-Frontend",
+  "homepage": "https://Olabayoji.github.io/FinAnalysis-Frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@canvasjs/charts": "^3.7.13",
