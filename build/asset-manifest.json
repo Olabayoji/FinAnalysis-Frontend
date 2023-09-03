@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Olabayoji/FINANALYSIS/frontend/static/css/main.75909542.css",
+    "main.js": "/Olabayoji/FINANALYSIS/frontend/static/js/main.715cba12.js",
+    "static/js/651.a75c34e7.chunk.js": "/Olabayoji/FINANALYSIS/frontend/static/js/651.a75c34e7.chunk.js",
+    "index.html": "/Olabayoji/FINANALYSIS/frontend/index.html",
+    "main.75909542.css.map": "/Olabayoji/FINANALYSIS/frontend/static/css/main.75909542.css.map",
+    "main.715cba12.js.map": "/Olabayoji/FINANALYSIS/frontend/static/js/main.715cba12.js.map",
+    "651.a75c34e7.chunk.js.map": "/Olabayoji/FINANALYSIS/frontend/static/js/651.a75c34e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75909542.css",
+    "static/js/main.715cba12.js"
+  ]
+}
